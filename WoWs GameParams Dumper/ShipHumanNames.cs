@@ -153,7 +153,7 @@ namespace WoWs_GameParams_Dumper
                     { "PASC508", "Wichita" },
                     { "PASC510", "Alaska" },
                     { "PASC518", "Anchorage" },
-                    { "PASC519", "Tusla" },
+                    { "PASC519", "Tulsa" },
                     { "PASC528", "Congress" },
                     { "PASC538", "Rochester" },
                     { "PASC587", "Atlanta B" },

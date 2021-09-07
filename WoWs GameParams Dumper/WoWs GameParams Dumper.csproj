@@ -6,7 +6,7 @@
     <RootNamespace>WoWs_GameParams_Dumper</RootNamespace>
     <UseWindowsForms>true</UseWindowsForms>
     <StartupObject>WoWs_GameParams_Dumper.Program</StartupObject>
-    <FileVersion>1.0.0.0</FileVersion>
+    <FileVersion>1.0.0.1</FileVersion>
     <RepositoryUrl>https://github.com/CruleD/WoWs-GameParams-Dumper</RepositoryUrl>
   </PropertyGroup>
 
